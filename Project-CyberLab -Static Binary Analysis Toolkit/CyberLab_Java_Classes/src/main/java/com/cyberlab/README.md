@@ -23,13 +23,6 @@ From the folder containing `src`:
 javac -d out src/main/java/com/cyberlab/*.java
 ```
 
-## Run
-
-Linux/macOS:
-
-```bash
-java -cp out com.cyberlab.CyberLabDemo /path/to/sample.bin
-```
 
 Windows PowerShell:
 
